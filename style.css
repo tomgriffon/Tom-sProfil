@@ -1,0 +1,50 @@
+*{
+	margin: 5px;
+	padding: 5px;
+}
+
+
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: revert-layer;
+	align-items: center;
+}
+
+header   header {
+        background-color: #0E4BFE;
+        color: #fff;
+        padding: 20px;
+
+img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: 20px;
+
+h1{
+	marg
+	color: #0B010C;
+}
+
+p{
+	font-weight: 100;  
+	font-size: 10px;
+}
+
+
+
+.container-img{
+	display: flex: ;
+	flex-direction: right: ;
+	width: 25%;
+	gap: 25px;
+}
+
+.container-infomartion{
+	width: 60%;
+	margin: 35 auto;
+}
+
+
+}
